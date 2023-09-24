@@ -1,3 +1,3 @@
-# HTML_CSS
+# Simple portfolio
 
-Started this repo to learn from codewithHarry
+Using this simple portfolio for the Scaler Open Source September Challenge. 
